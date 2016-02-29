@@ -377,7 +377,7 @@ if (Meteor.isClient) {
 
             jogo.moeda.origem = posicoes_moeda[0];
             jogo.moeda.destino = posicoes_moeda[player.posicao];
-            jogo.moeda.qtd = 3;
+            jogo.moeda.qtd = 1;
 
             // Setar as informações da Ação
 
